@@ -4,6 +4,10 @@ All notable changes to FleetPilot are recorded here. Version numbers follow [sem
 
 ## [Unreleased]
 
+### Added
+
+- **Dutch interface complete** ([#100](https://github.com/fleetpilot-dev/FleetPilot/issues/100)): the 67 strings that had a German translation but no Dutch one are now translated in `i18n.py`, so they no longer show up in English when NL is chosen.
+
 ## [1.9.0-beta.1] — 2026-11-18
 - **Swedish interface:** choose SV in the language menu.
 
